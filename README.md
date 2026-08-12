@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm R Sushanth
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=false&vCenter=true&width=600&lines=Backend+Systems+Engineer;Cybersecurity+Enthusiast;AI+Agent+Developer;Exploring+Tech+Everyday;Building+Stuff!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=false&vCenter=true&width=600&lines=Backend+Systems;Cybersecurity+Enthusiast;AI+Agents;Exploring+Tech+Everyday;Building+Stuff!!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
