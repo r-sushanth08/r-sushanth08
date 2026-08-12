@@ -1,9 +1,12 @@
 # 👋 Hi there, I'm R Sushanth
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Agent+Enthusiast;Backend+Engineer;Cyber+Security+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=false&vCenter=true&width=600&lines=Backend+Systems+Engineer;Cybersecurity+Enthusiast;AI+Agent+Developer;Exploring+Tech+Everyday;Building+Stuff!!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-Passionate developer exploring the intersection of **AI agents**, **backend systems**, and **cyber-security**. Currently diving deep into building intelligent systems with LangChain and LangGraph while strengthening my DevOps skills with Docker and Kubernetes.
+
+Hey there! I'm a passionate developer who loves building **<span style="color:#00D4FF;">backend systems</span>**, exploring **<span style="color:#FF6B6B;">cybersecurity</span>**, and creating **<span style="color:#4ECDC4;">AI agents</span>**. Currently diving deep into LangChain and LangGraph while strengthening my DevOps game with Docker and Kubernetes.
+
+> 💡 *"Building stuff that makes a difference, one commit at a time."*
 
 ---
 
@@ -28,24 +31,6 @@ Passionate developer exploring the intersection of **AI agents**, **backend syst
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<!-- Version 1: Standard Stats Cards -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-sushanth08&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-sushanth08&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<!-- Version 2: Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=r-sushanth08&theme=radical&hide_border=true&background=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r-sushanth08&theme=radical&hide_border=true&bg_color=0d1117&layout=compact"/>
-</div>
 ---
 
 ## 🎯 Current Focus
