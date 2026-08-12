@@ -50,20 +50,10 @@ Hey there! I'm a passionate developer who loves building **<span style="color:#0
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r-sushanth08&theme=radical &no-frame= true &row=2&column=4"/>
-</div>
-
----
-
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=r-sushanth08&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=r-sushanth08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   
   ### 💻 "Code is poetry, and I'm writing epics."
 </div>
